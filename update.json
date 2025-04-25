@@ -1,0 +1,5 @@
+{
+    "version": "1.0.2",
+    "download_url": "https://github.com/3zreel/MTAdmin-Updates/releases/download/v1.0.2/MTAdmin.exe",
+    "changelog": "Fixed permission denied issue for saving webhooks and minor improvements"
+}
